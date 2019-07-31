@@ -8,7 +8,7 @@
  */
 
 package com.reactnative.photoview;
-
+//androidx lib
 import androidx.annotation.IntDef;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.uimanager.events.Event;
