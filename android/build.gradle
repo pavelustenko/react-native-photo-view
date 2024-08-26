@@ -16,11 +16,11 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 33 //30 // 28
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "28.0.3"// "25.0.0"
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 22
+        targetSdkVersion 31
         versionCode 1
     }
     lintOptions {
